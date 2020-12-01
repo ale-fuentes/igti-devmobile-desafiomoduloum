@@ -7,7 +7,7 @@ Pode utilizar o código clonando na sua estação de trabalho.
 #### Caracteristicas do projeto
 - IDE Eclipse, Eclipse IDE for Enterprise Java Developers - Version: 2020-09 (4.17.0) [site](https://www.eclipse.org/downloads/)
 - Projecto do tipo Maven [site](https://maven.apache.org/index.html)
-- GIT [site]https://git-scm.com/)
+- GIT [site](https://git-scm.com/)
 
 
 *Observação*
