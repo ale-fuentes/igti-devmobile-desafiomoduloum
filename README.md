@@ -23,10 +23,7 @@ ale:> git clone https://github.com/ale-fuentes/igti-devmobile-desafiomoduloum.gi
 
 ### Abrir projecto em Eclipse
 
-1. Importar o projecto utilizando a o menu 
-
-_file -> Import_
-
+1. Importar o projecto utilizando a o menu _file -> Import_
 2. Abrira um popup de Import, nesta se selecionará o wizard de importação do projecto mavem, seleccionar da lista a opção _Existing Mavem Projects_
 3. Selecionar a pasta onde foi clonado o projecto no input _Root Directory_
 4. Click no botão _Finish_
