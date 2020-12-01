@@ -9,6 +9,12 @@ Pode utilizar o código clonando na sua estação de trabalho.
 - Projecto do tipo Maven [site](https://maven.apache.org/index.html)
 - GIT [site]https://git-scm.com/)
 
+
+*Observação*
+- persistencia-json-js --> _solução em JavaScript_
+- persintencia-json -----> _solução em Java_ (nome do projeto foi criado digitado erradamente, seria _persistencia_)
+
+
 #### Clonar utilizando GIT
 
 ```
