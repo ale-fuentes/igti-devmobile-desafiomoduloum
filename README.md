@@ -11,6 +11,7 @@ Pode utilizar o código clonando na sua estação de trabalho.
 
 
 *Observação*
+- persistencia-json-dart --> _solução em Dart_
 - persistencia-json-js --> _solução em JavaScript_
 - persintencia-json -----> _solução em Java_ (nome do projeto foi criado digitado erradamente, seria _persistencia_)
 
